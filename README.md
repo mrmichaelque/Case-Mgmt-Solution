@@ -24,7 +24,8 @@
 - **Case notification for clients and reps**: Automated notifications are sent to both clients and representatives to keep them updated on case progress and developments.
 - **Distribution and synchronization of data between platforms**: Power Automate ensures seamless data exchange and synchronization between different platforms, enhancing efficiency and accuracy.
 
-### SharePoint:
+### SharePoint: 
+- **https://www.figma.com/file/50CsrTg0KDeRFJJm094yLe/SharePoint-IntranetWeb-Proposal?type=design&node-id=1636-15015&mode=design
 - **Data entry for Fintech representatives**: SharePoint serves as a platform for Fintech representatives to enter and manage data efficiently.
 - **Document Management**: SharePoint facilitates document management, allowing easy storage, retrieval, and collaboration on case-related documents.
 - **Case communication platform**: SharePoint serves as a centralized platform for communication regarding cases, promoting collaboration and information sharing among team members.
