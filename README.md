@@ -2,7 +2,7 @@
 
 ## Overview
 - This repository contains a Case Management System built using the Power Platform from Microsoft. 
-- The Power Platform is a suite of applications, connectors, and a data platform designed to empower developers and business users to rapidly create and deploy applications. 
+- The Power Platform is a suite of applications, connectors, and a data platform designed to empower developers and business users to rapidly create and deploy applications with little to no code. 
 - This Case Management System aims to streamline the process of managing cases, such as customer inquiries, support tickets, or any other type of case-based workflow.
 
 ## Features
