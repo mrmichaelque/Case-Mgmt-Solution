@@ -17,6 +17,11 @@
 ## Primary Functions
 ##Landing Page:
 - **https://www.figma.com/file/9U57lJZQoPQaBkf1vbM1Oz/CM-Solution?type=design&node-id=392-7803&mode=design
+
+## Power Page
+- **Contact Form
+- **https://www.figma.com/file/9U57lJZQoPQaBkf1vbM1Oz/CM-Solution?type=design&node-id=322-3931&mode=design 
+  
 ### Power Apps:
 - **Data entry for Fintech company representatives**: Fintech representatives can efficiently input and manage relevant data using Power Apps tailored to their specific needs.
 - **Power Pages**: Clients have access to user-friendly Power Pages for seamless data entry and interaction with the system.
